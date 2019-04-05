@@ -12,4 +12,5 @@ npm install
 
 npm run start
 
-
+## Open web browser
+http://localhost:3000
